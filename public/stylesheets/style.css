@@ -1,0 +1,12 @@
+.a-canvas{
+	height:160px !important;
+}
+
+a-sky{
+	position:relative;
+}
+
+.goback{
+	position: absolute;
+	margin-top: 15%;
+}
